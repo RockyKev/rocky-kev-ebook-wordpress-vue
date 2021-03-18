@@ -2,8 +2,12 @@
 
 Hi I'm Rocky.
 
+All the blog posts will end up being a book. 
+
 
 ## The blogposts
+
+
 
 FIRST - Applications for Vue Plugin Template: https://github.com/RockyKev/wordpress-vue-author/blob/main/the-blogpost.md
 
