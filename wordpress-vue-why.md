@@ -71,7 +71,7 @@ Now we get to Vue.
 
 Vue said, "What if we took all the cool things about React, but let you use vanilla HTML, CSS, and JS?"
 
-Vue shorten the curve. All the power of React, but using basic building blocks that we were all familiar with. 
+Vue shortened the curve. All the power of React, but using basic building blocks that we we're all familiar with. 
 
 So why Vue and WordPress?
 
@@ -81,15 +81,15 @@ Because coding should be enjoyable.
 
 WHY AM I DOING THIS:
 
-In 2016, Matt Mulewig (PROOF NAME PLZ), the creator of WordPress, made a call to action for WordPress developers to "Learn Javascript deeply". 
+In 2016, Matt Mullenweg, the creator of WordPress, made a call to action for WordPress developers to "Learn Javascript deeply". 
 
-For the next few years, WordPress is evolving out of it's PHP shell into modern development. Besides a little hiccup with React licenses in 2018, WordPress has now decided that React is the framework of choice. 
+For the next few years, WordPress evolved out of it's PHP shell into modern development. Besides a little hiccup with React licenses in 2018, WordPress has now decided that React is the framework of choice. 
 
 I like React a lot. But I also like Vue. 
 
-And as a Laravel developer (which uses a Laravel backend and Vue frontend), I was disappointed to see WordPress go in the direction of React, as opposed to a agnostic direction. 
+And as a Laravel developer (which uses a Laravel backend and Vue frontend), I was disappointed to see WordPress go in the direction of React, as opposed to an agnostic direction. 
 
-React make sense business-wise -- React solved a LOT of problems and ushered us into this new era of modern development. ANd versus Vue, there's a significantly larger population of React developers (by 7 out of 10 devs are using React), a larger set of tools, and more importantly, a larger body of experience and documentation thanks to React's main maintainer -- Facebook.
+React make sense business-wise -- React solved a LOT of problems and ushered us into this new era of modern development. And versus Vue, there's a significantly larger population of React developers (by 7 out of 10 devs are using React), a larger set of tools, and more importantly, a larger body of experience and documentation thanks to React's main maintainer -- Facebook.
 
 But what about the 3 out of 10 developers using Vue? 
 
@@ -108,7 +108,7 @@ Blocks are written with a tiny bit of PHP, but mostly in JSX. (React)
 
 How does Vue look in a React-based Block Library? 
 
-Well frankly, in a really really shitty position. 
+Well frankly, in a really, really shitty position. 
 
 I spent a two weeks spinning in circles, building React-based Blocks and trying to find a way to make it Vue-like. Unfortunately, I wasn't lucky. 
 
@@ -117,7 +117,7 @@ But not all is lost.
 Gutenberg was released in 2018 (and with it, WordPress Blocks), and Full-site editing is coming closer (expected 2022). 
 
 Blocks are at the toddler stage of life. 
-Roughly a few months ago (Sept 2020), WordPress released Blocks API 2. I have found ZERO tutorials on how to use it. THe Blocks documentation was serverly lacking. ANd even a documentation writer for WordPress made a tutorial in March 2021 using the original API. 
+Roughly a few months ago (Sept 2020), WordPress released Blocks API 2. I have found ZERO tutorials on how to use it. The Blocks documentation was serverely lacking. And even a documentation writer for WordPress made a tutorial in March 2021 using the original API. 
 
 In other words -- WordPress still has a long way to go for Block development.
 
